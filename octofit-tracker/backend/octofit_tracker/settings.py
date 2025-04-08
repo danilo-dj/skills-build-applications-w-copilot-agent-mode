@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-)lm=w+2^*&c*nm5cs(!=k!3exze*2x+-=cr#!$l@vu(g!&_w4r
 DEBUG = True
 
 # Allow all hosts
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['glowing-waffle-rx4vxv66rvx2wpw-8000.app.github.dev', 'localhost']
 
 
 # Application definition
